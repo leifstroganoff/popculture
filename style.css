@@ -115,6 +115,5 @@ a{
     color: azure;
 }
 .boxed{
-    color: #a34d3e;
-    border-size: 4px;
+    border: #a34d3e 3px;
 }
